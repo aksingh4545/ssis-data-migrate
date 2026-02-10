@@ -1,33 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>SSIS to Snowflake Data Pipeline via S3</title>
-  <style>
-    body {
-      font-family: Arial, Helvetica, sans-serif;
-      line-height: 1.6;
-      margin: 40px;
-      color: #222;
-    }
-    h1, h2, h3 {
-      color: #0b5394;
-    }
-    code, pre {
-      background: #f4f4f4;
-      padding: 6px;
-      border-radius: 4px;
-      display: block;
-      overflow-x: auto;
-    }
-    ul {
-      margin-left: 20px;
-    }
-    .section {
-      margin-bottom: 40px;
-    }
-  </style>
-</head>
+
 
 <body>
 
